@@ -1,0 +1,11 @@
+# Ignore dataset folder
+dataset/
+
+# Ignore all .dat files
+*.dat
+
+model
+
+model_vgg
+
+.ipynb_checkpoints/
